@@ -2,20 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-This is my mother's first blog
-
-
+To all the readers of the world. I will be adding my poems and blogs to this page
 # 2020
+## June
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*  [_Poem Lockdown_](./lockdown.html).
 
-## Header 2
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -121,4 +114,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
