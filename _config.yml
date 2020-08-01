@@ -1,3 +1,6 @@
 theme: jekyll-theme-merlot
 title: Sheela Agarwal's blog
 description: I will put my thoughts and poems in this blog
+github:
+  zip_url: https://www.awgp.org/
+  another_url: another value
