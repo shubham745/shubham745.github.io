@@ -7,6 +7,7 @@ layout: default
  *  [_मैं क्या हूँ_](./whoami.html)
  *  [_श्रदेय_](./shradeya.html)
  *  [_अहंकार_](./ahankar.html)
+ *  [_मन_](./maan.html)
  
 
 ## June
@@ -14,12 +15,15 @@ layout: default
 *  [_नियंत्रण_](./niyantran.html)
 *  [_योग दिवस_](./yogdiwas.html)
 *  [_स्वास्थ्य_](./swasth.html)
+*  [_व्यवहार_](./vyavahar.html)
 
 ## May
 *  [_Lockdown_](./lockdown.html)
 *  [_जीवन समर_](./jeevanSamar.html)
 *  [_कालनेमि_](./kalnami.html)
 *  [_विश्व पर्यावरण दिवस_](./gagan.html)
+*  [_आज का समय_](./aajkasamay.html)
+
 
 
 
