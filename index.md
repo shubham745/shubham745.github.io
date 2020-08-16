@@ -2,6 +2,11 @@
 layout: default
 ---
 # 2020
+## August
+*  [_प्रेम की पतवार_](./premkipatwar.html)
+*  [_गायत्री मंत्र_](./gayatriMantra.html)
+
+
 ## July
 
  *  [_मैं क्या हूँ_](./whoami.html)
