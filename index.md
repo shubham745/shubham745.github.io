@@ -2,7 +2,7 @@
 layout: default
 ---
 # 2020
-## Septembers
+## September
 *  [_हरियाली_](./hariyali.html)
 *  [_विचार करें_](./vichaar.html)
 
